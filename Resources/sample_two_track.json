@@ -1,7 +1,7 @@
 {
  "offset": { 
   "start": 0,
-  "music": 0
+  "music": 11500 
  },
  "notes": [
   {
@@ -12,132 +12,132 @@
   {
    "track": 1,
    "text": "け",
-   "targetTime": 500
+   "targetTime": 250
   },
   {
    "track": 0,
+   "text": "てん",
+   "targetTime": 500
+  },
+  {
+   "track": 1,
    "text": "てん",
    "targetTime": 1000
   },
   {
-   "track": 1,
-   "text": "てん",
-   "targetTime": 1500
-  },
-  {
    "track": 0,
    "text": "て",
-   "targetTime": 2000
+   "targetTime": 1500
   },
   {
    "track": 1,
    "text": "け",
+   "targetTime": 1750
+  },
+  {
+   "track": 0,
+   "text": "てん",
+   "targetTime": 2000
+  },
+  {
+   "track": 1,
+   "text": "てん",
    "targetTime": 2500
   },
   {
    "track": 0,
-   "text": "てん",
+   "text": "て",
    "targetTime": 3000
   },
   {
    "track": 1,
+   "text": "け",
+   "targetTime": 3250
+  },
+  {
+   "track": 0,
    "text": "てん",
    "targetTime": 3500
   },
   {
-   "track": 0,
-   "text": "て",
+   "track": 1,
+   "text": "てん",
    "targetTime": 4000
   },
   {
-   "track": 1,
-   "text": "て",
+   "track": 0,
+   "text": "てん",
    "targetTime": 4500
   },
   {
-   "track": 0,
-   "text": "て",
+   "track": 1,
+   "text": "てん",
    "targetTime": 5000
   },
   {
-   "track": 1,
-   "text": "て",
+   "track": 0,
+   "text": "てん",
    "targetTime": 5500
   },
   {
-   "track": 0,
-   "text": "て",
+   "track": 1,
+   "text": "てん",
    "targetTime": 6000
   },
   {
-   "track": 1,
-   "text": "て",
+   "track": 0,
+   "text": "てん",
    "targetTime": 6500
   },
   {
-   "track": 0,
+   "track": 1,
    "text": "て",
+   "targetTime": 6750
+  },
+  {
+   "track": 0,
+   "text": "け",
    "targetTime": 7000
+  },
+  {
+   "track": 0,
+   "text": "てん",
+   "targetTime": 7250
   },
   {
    "track": 1,
    "text": "て",
-   "targetTime": 7500
+   "targetTime": 7750
   },
   {
    "track": 0,
-   "text": "て",
+   "text": "れ",
    "targetTime": 8000
   },
   {
    "track": 1,
-   "text": "て",
+   "text": "つ",
    "targetTime": 8250
   },
   {
    "track": 0,
-   "text": "て",
+   "text": "く",
    "targetTime": 8500
   },
   {
-   "track": 0,
-   "text": "て",
-   "targetTime": 9000
+   "track": 1,
+   "text": "てん",
+   "targetTime": 8750
   },
   {
    "track": 1,
    "text": "て",
-   "targetTime": 9250
+   "targetTime": 9250 
   },
   {
    "track": 0,
-   "text": "て",
+   "text": "れ",
    "targetTime": 9500
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 10000
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 10250
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 10500
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 11000
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 11250
   },
   {
    "track": 1,
