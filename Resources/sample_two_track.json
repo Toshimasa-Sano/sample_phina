@@ -90,12 +90,12 @@
    "targetTime": 6500
   },
   {
-   "track": 1,
+   "track": 0,
    "text": "て",
    "targetTime": 6750
   },
   {
-   "track": 0,
+   "track": 1,
    "text": "け",
    "targetTime": 7000
   },
@@ -105,37 +105,37 @@
    "targetTime": 7250
   },
   {
-   "track": 1,
+   "track": 0,
    "text": "て",
    "targetTime": 7750
   },
   {
-   "track": 0,
+   "track": 1,
    "text": "れ",
    "targetTime": 8000
   },
   {
-   "track": 1,
+   "track": 0,
    "text": "つ",
    "targetTime": 8250
   },
   {
-   "track": 0,
+   "track": 1,
    "text": "く",
    "targetTime": 8500
   },
   {
-   "track": 1,
+   "track": 0,
    "text": "てん",
    "targetTime": 8750
   },
   {
-   "track": 1,
+   "track": 0,
    "text": "て",
    "targetTime": 9250 
   },
   {
-   "track": 0,
+   "track": 1,
    "text": "れ",
    "targetTime": 9500
   },
