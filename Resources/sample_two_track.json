@@ -146,17 +146,17 @@
   },
   {
    "track": 0,
-   "text": "て",
+   "text": "け",
+   "targetTime": 11750
+  },
+  {
+   "track": 1,
+   "text": "てん",
    "targetTime": 12000
   },
   {
    "track": 0,
-   "text": "て",
-   "targetTime": 12250
-  },
-  {
-   "track": 0,
-   "text": "て",
+   "text": "てん",
    "targetTime": 12500
   },
   {
