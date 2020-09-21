@@ -5,609 +5,520 @@
  },
  "notes": [
   {
+   "line": 1,
    "track": 0,
    "text": "て",
    "targetTime": 0
   },
   {
+   "line": 1,
    "track": 1,
    "text": "け",
    "targetTime": 250
   },
   {
+   "line": 1,
    "track": 0,
    "text": "てん",
    "targetTime": 500
   },
   {
+   "line": 1,
    "track": 1,
    "text": "てん",
    "targetTime": 1000
   },
   {
+   "line": 1,
    "track": 0,
    "text": "て",
    "targetTime": 2000
   },
   {
+   "line": 1,
    "track": 1,
    "text": "け",
    "targetTime": 2250
   },
   {
+   "line": 1,
    "track": 0,
    "text": "てん",
    "targetTime": 2500
   },
   {
+   "line": 1,
    "track": 1,
    "text": "てん",
    "targetTime": 3000
   },
   {
+   "line": 2,
    "track": 0,
    "text": "て",
    "targetTime": 4000
   },
   {
+   "line": 2,
    "track": 1,
    "text": "け",
    "targetTime": 4250
   },
   {
+   "line": 2,
    "track": 0,
    "text": "てん",
    "targetTime": 4500
   },
   {
+   "line": 2,
    "track": 1,
    "text": "てん",
    "targetTime": 5000
   },
   {
+   "line": 2,
    "track": 0,
    "text": "てん",
    "targetTime": 5500
   },
   {
+   "line": 2,
    "track": 1,
    "text": "てん",
    "targetTime": 6000
   },
   {
+   "line": 2,
    "track": 0,
    "text": "てん",
    "targetTime": 6500
   },
   {
+   "line": 2,
    "track": 1,
    "text": "てん",
    "targetTime": 7000
   },
   {
+   "line": 2,
    "track": 0,
    "text": "てん",
    "targetTime": 7500
   },
   {
+   "line": 3,
    "track": 0,
    "text": "て",
    "targetTime": 8000
   },
   {
+   "line": 3,
    "track": 1,
    "text": "け",
    "targetTime": 8250
   },
   {
+   "line": 3,
    "track": 0,
    "text": "てん",
    "targetTime": 8500 
   },
   {
+   "line": 3,
    "track": 0,
    "text": "て",
    "targetTime": 9000  
   },
   {
+   "line": 3,
    "track": 1,
    "text": "れ",
    "targetTime": 9250
   },
   {
+   "line": 3,
    "track": 0,
    "text": "つ",
    "targetTime": 9500 
   },
   {
+   "line": 3,
    "track": 1,
    "text": "く",
    "targetTime": 9750
   },
   {
+   "line": 3,
    "track": 0,
    "text": "てん",
    "targetTime": 10000
   },
   {
+   "line": 3,
    "track": 0,
    "text": "て",
    "targetTime": 10500
   },
   {
+   "line": 3,
    "track": 1,
    "text": "れ",
    "targetTime": 10750 
   },
   {
+   "line": 4,
    "track": 1,
    "text": "て",
    "targetTime": 12000
   },
   {
+   "line": 4,
    "track": 0,
    "text": "け",
    "targetTime": 12250
   },
   {
+   "line": 4,
    "track": 1,
    "text": "てん",
    "targetTime": 12500
   },
   {
+   "line": 4,
    "track": 0,
    "text": "てん",
    "targetTime": 13000
   },
   {
+   "line": 4,
    "track": 1,
-   "text": "て",
-   "targetTime": 13000
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 13250
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 13500
-  },
-  {
-   "track": 1,
-   "text": "て",
+   "text": "て〜ん",
    "targetTime": 14000
   },
   {
+   "line": 4,
    "track": 0,
-   "text": "て",
-   "targetTime": 14250
+   "text": "てん",
+   "targetTime": 15000
   },
   {
-   "track": 1,
-   "text": "て",
-   "targetTime": 14500
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 15500
-  },
-  {
+   "line": 4,
    "track": 1,
    "text": "て",
    "targetTime": 16000
   },
   {
+   "line": 4,
    "track": 1,
-   "text": "て",
+   "text": "け",
    "targetTime": 16250
   },
   {
-   "track": 1,
-   "text": "て",
+   "line": 4,
+   "track": 0,
+   "text": "てん",
    "targetTime": 16500
   },
   {
+   "line": 4,
    "track": 1,
-   "text": "て",
+   "text": "てん",
    "targetTime": 17000
   },
   {
-   "track": 1,
-   "text": "て",
-   "targetTime": 17250
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 17500
-  },
-  {
-   "track": 1,
-   "text": "て",
+   "line": 4,
+   "track": 0,
+   "text": "てん",
    "targetTime": 18000
   },
   {
-   "track": 0,
-   "text": "て",
-   "targetTime": 18250
-  },
-  {
+   "line": 4,
    "track": 1,
-   "text": "て",
+   "text": "てん",
    "targetTime": 18500
   },
   {
-   "track": 0,
-   "text": "て",
-   "targetTime": 18750
-  },
-  {
+   "line": 5,
    "track": 1,
    "text": "て",
    "targetTime": 19000
   },
   {
-   "track": 0,
-   "text": "て",
+   "line": 5,
+   "track": 1,
+   "text": "け",
    "targetTime": 19250
   },
   {
+   "line": 5,
    "track": 1,
-   "text": "て",
+   "text": "てん",
    "targetTime": 19500
   },
   {
+   "line": 5,
    "track": 1,
-   "text": "て",
+   "text": "てん",
    "targetTime": 20000
   },
   {
-   "track": 0,
-   "text": "て",
-   "targetTime": 20250
-  },
-  {
-   "track": 0,
-   "text": "て",
+   "line": 5,
+   "track": 1,
+   "text": "てん",
    "targetTime": 20500
   },
   {
-   "track": 0,
-   "text": "て",
+   "line": 5,
+   "track": 1,
+   "text": "てん",
    "targetTime": 21000
   },
   {
-   "track": 1,
-   "text": "て",
-   "targetTime": 21250
-  },
-  {
-   "track": 1,
-   "text": "て",
+   "line": 5,
+   "track": 0,
+   "text": "てん",
    "targetTime": 21500
   },
   {
-   "track": 0,
-   "text": "て",
+   "line": 5,
+   "track": 1,
+   "text": "てん",
    "targetTime": 22000
   },
   {
+   "line": 5,
    "track": 0,
-   "text": "て",
-   "targetTime": 22250
-  },
-  {
-   "track": 0,
-   "text": "て",
+   "text": "てん",
    "targetTime": 22500
   },
   {
+   "line": 6,
    "track": 1,
    "text": "て",
+   "targetTime": 23000
+  },
+  {
+   "line": 6,
+   "track": 0,
+   "text": "け",
+   "targetTime": 23250
+  },
+  {
+   "line": 6,
+   "track": 1,
+   "text": "てん",
    "targetTime": 23500
   },
   {
-   "track": 0,
-   "text": "て",
+   "line": 6,
+   "track": 1,
+   "text": "てん",
    "targetTime": 24000
   },
   {
-   "track": 1,
-   "text": "て",
-   "targetTime": 24250
-  },
-  {
+   "line": 6,
    "track": 0,
-   "text": "て",
-   "targetTime": 24500
+   "text": "てん",
+   "targetTime": 25000
   },
   {
+   "line": 6,
    "track": 0,
-   "text": "て",
-   "targetTime": 25250
+   "text": "てん",
+   "targetTime": 25500
   },
   {
-   "track": 1,
-   "text": "て",
-   "targetTime": 25750
-  },
-  {
+   "line": 6,
    "track": 0,
-   "text": "て",
-   "targetTime": 26250
-  },
-  {
-   "track": 1,
    "text": "て",
    "targetTime": 26500
   },
   {
-   "track": 0,
-   "text": "て",
+   "line": 6,
+   "track": 1,
+   "text": "け",
    "targetTime": 26750
   },
   {
+   "line": 6,
    "track": 1,
-   "text": "て",
+   "text": "てん",
    "targetTime": 27000
   },
   {
+   "line": 6,
    "track": 0,
-   "text": "て",
-   "targetTime": 27250
+   "text": "てん",
+   "targetTime": 27500
   },
   {
-   "track": 1,
-   "text": "て",
-   "targetTime": 27750
-  },
-  {
-   "track": 1,
-   "text": "て",
+   "line": 6,
+   "track": 0,
+   "text": "てん",
    "targetTime": 28000
   },
   {
-   "track": 1,
-   "text": "て",
-   "targetTime": 28250
+   "line": 6,
+   "track": 0,
+   "text": "てん",
+   "targetTime": 28500
   },
   {
+   "line": 7,
+   "track": 1,
+   "text": "てん",
+   "targetTime": 29500
+  },
+  {
+   "line": 7,
    "track": 0,
    "text": "て",
+   "targetTime": 30000 
+  },
+  {
+   "line": 7,
+   "track": 1,
+   "text": "け",
    "targetTime": 30250
   },
   {
+   "line": 7,
    "track": 0,
-   "text": "て",
-   "targetTime": 31250
+   "text": "てん",
+   "targetTime": 30500
   },
   {
+   "line": 7,
    "track": 0,
-   "text": "て",
-   "targetTime": 31750
+   "text": "てん",
+   "targetTime": 31000
   },
   {
+   "line": 7,
    "track": 1,
-   "text": "て",
+   "text": "てん",
+   "targetTime": 31500
+  },
+  {
+   "line": 7,
+   "track": 0,
+   "text": "てん",
    "targetTime": 32000
   },
   {
+   "line": 7,
    "track": 0,
    "text": "て",
-   "targetTime": 32250
+   "targetTime": 32500
   },
   {
-   "track": 0,
-   "text": "て",
+   "line": 7,
+   "track": 1,
+   "text": "れ",
    "targetTime": 32750
   },
   {
-   "track": 1,
-   "text": "て",
+   "line": 7,
+   "track": 0,
+   "text": "つ",
    "targetTime": 33000
   },
   {
+   "line": 7,
    "track": 1,
-   "text": "て",
+   "text": "く",
    "targetTime": 33250
   },
   {
-   "track": 0,
-   "text": "て",
+   "line": 8,
+   "track": 1,
+   "text": "てん",
    "targetTime": 33500
   },
   {
-   "track": 0,
+   "line": 8,
+   "track": 1,
    "text": "て",
-   "targetTime": 33750
+   "targetTime": 34000
   },
   {
-   "track": 0,
-   "text": "て",
+   "line": 8,
+   "track": 1,
+   "text": "れ",
    "targetTime": 34250
   },
   {
+   "line": 8,
    "track": 0,
-   "text": "て",
+   "text": "つ",
+   "targetTime": 34500
+  },
+  {
+   "line": 8,
+   "track": 0,
+   "text": "く",
    "targetTime": 34750
   },
   {
+   "line": 8,
    "track": 0,
-   "text": "て",
-   "targetTime": 35250
+   "text": "つ",
+   "targetTime": 35000
   },
   {
+   "line": 8,
+   "track": 1,
+   "text": "く",
+   "targetTime": 35250 
+  },
+  {
+   "line": 8,
    "track": 0,
    "text": "て",
+   "targetTime": 35500
+  },
+  {
+   "line": 8,
+   "track": 0,
+   "text": "れ",
    "targetTime": 35750
   },
   {
-   "track": 0,
-   "text": "て",
+   "line": 8,
+   "track": 1,
+   "text": "つ",
+   "targetTime": 36000
+  },
+  {
+   "line": 8,
+   "track": 1,
+   "text": "く",
    "targetTime": 36250
   },
   {
+   "line": 8,
    "track": 0,
    "text": "て",
+   "targetTime": 36500
+  },
+  {
+   "line": 8,
+   "track": 0,
+   "text": "れ",
    "targetTime": 36750
   },
   {
-   "track": 1,
-   "text": "て",
+   "line": 8,
+   "track": 0,
+   "text": "つ",
    "targetTime": 37000
   },
   {
-   "track": 1,
-   "text": "て",
+   "line": 8,
+   "track": 0,
+   "text": "く",
    "targetTime": 37250
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 37500
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 37750
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 38250
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 38750
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 39250
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 39750
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 40000
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 40250
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 40500
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 41250
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 43750
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 44000
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 44250
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 45250
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 46250
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 48875
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 15500
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 23500
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 25750
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 26250
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 26500
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 26750
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 27000
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 29250
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 31250
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 43750
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 44000
-  },
-  {
-   "track": 0,
-   "text": "て",
-   "targetTime": 44250
-  },
-  {
-   "track": 1,
-   "text": "て",
-   "targetTime": 45250
   }
  ]
 }
