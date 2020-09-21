@@ -1,6 +1,6 @@
 {
  "offset": { 
-  "start": 0,
+  "delay": 4000,
   "music": 11500 
  },
  "notes": [
