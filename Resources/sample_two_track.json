@@ -27,42 +27,32 @@
   {
    "track": 0,
    "text": "て",
-   "targetTime": 1500
-  },
-  {
-   "track": 1,
-   "text": "け",
-   "targetTime": 1750
-  },
-  {
-   "track": 0,
-   "text": "てん",
    "targetTime": 2000
   },
   {
    "track": 1,
+   "text": "け",
+   "targetTime": 2250
+  },
+  {
+   "track": 0,
    "text": "てん",
    "targetTime": 2500
   },
   {
+   "track": 1,
+   "text": "てん",
+   "targetTime": 3000
+  },
+  {
    "track": 0,
    "text": "て",
-   "targetTime": 3000
+   "targetTime": 4000
   },
   {
    "track": 1,
    "text": "け",
-   "targetTime": 3250
-  },
-  {
-   "track": 0,
-   "text": "てん",
-   "targetTime": 3500
-  },
-  {
-   "track": 1,
-   "text": "てん",
-   "targetTime": 4000
+   "targetTime": 4250
   },
   {
    "track": 0,
@@ -90,74 +80,84 @@
    "targetTime": 6500
   },
   {
-   "track": 0,
-   "text": "て",
-   "targetTime": 6750
-  },
-  {
    "track": 1,
-   "text": "け",
+   "text": "てん",
    "targetTime": 7000
   },
   {
    "track": 0,
    "text": "てん",
-   "targetTime": 7250
+   "targetTime": 7500
   },
   {
    "track": 0,
    "text": "て",
-   "targetTime": 7750
+   "targetTime": 8000
+  },
+  {
+   "track": 1,
+   "text": "け",
+   "targetTime": 8250
+  },
+  {
+   "track": 0,
+   "text": "てん",
+   "targetTime": 8500 
+  },
+  {
+   "track": 0,
+   "text": "て",
+   "targetTime": 9000  
   },
   {
    "track": 1,
    "text": "れ",
-   "targetTime": 8000
+   "targetTime": 9250
   },
   {
    "track": 0,
    "text": "つ",
-   "targetTime": 8250
+   "targetTime": 9500 
   },
   {
    "track": 1,
    "text": "く",
-   "targetTime": 8500
+   "targetTime": 9750
   },
   {
    "track": 0,
    "text": "てん",
-   "targetTime": 8750
+   "targetTime": 10000
   },
   {
    "track": 0,
    "text": "て",
-   "targetTime": 9250 
+   "targetTime": 10500
   },
   {
    "track": 1,
    "text": "れ",
-   "targetTime": 9500
+   "targetTime": 10750 
   },
   {
    "track": 1,
    "text": "て",
-   "targetTime": 11500
-  },
-  {
-   "track": 0,
-   "text": "け",
-   "targetTime": 11750
-  },
-  {
-   "track": 1,
-   "text": "てん",
    "targetTime": 12000
   },
   {
    "track": 0,
+   "text": "け",
+   "targetTime": 12250
+  },
+  {
+   "track": 1,
    "text": "てん",
    "targetTime": 12500
+  },
+  {
+   "track": 0,
+   "text": "てん",
+   "targetTime": 13000
   },
   {
    "track": 1,
