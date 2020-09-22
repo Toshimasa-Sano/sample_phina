@@ -1,4 +1,6 @@
 {
+ "gameEnd": 50000,
+ "baseRhythm": 500,
  "offset": { 
   "delay": 4000,
   "music": 11900 
